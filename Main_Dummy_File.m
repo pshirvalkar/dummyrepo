@@ -6,3 +6,4 @@
 
 % Simon test change % Second test %
 
+% life is a finite representation of the infinite universe % juan anso, July 10 2020
